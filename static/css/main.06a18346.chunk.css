@@ -1,0 +1,2 @@
+*,:after,:before{box-sizing:border-box}html{font-family:Verdana,sans-serif}body{margin:0;background-color:#4c6085}.app{justify-content:space-evenly;margin:100px auto;height:200px;width:400px;padding:10px;border-radius:50px;background-color:#13c4a3;color:#32322c;font-weight:700}.app,.app__container{display:flex;flex-direction:column;align-items:center}.app__container{height:100px;justify-content:center}.app__heading{font-style:italic;font-size:20px;margin:15px}.app__button{background-color:#4c6085;color:#fff}
+/*# sourceMappingURL=main.06a18346.chunk.css.map */
